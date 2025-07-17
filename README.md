@@ -18,8 +18,8 @@ Before using this tool, ensure you have captured the target network traffic and 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-repo/Packet_Replay.git
-   cd Packet_Replay
+   git clone https://github.com/adultfishchen/PacketReplayer.git
+   cd PacketReplayer
    ```
 2. Modify the file
 3. Run the Replayer：
